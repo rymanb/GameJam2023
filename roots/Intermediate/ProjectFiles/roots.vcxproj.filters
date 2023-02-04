@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\roots.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\roots.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\rootsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\roots">
+      <UniqueIdentifier>{5A60344B-48FC-3B5F-AC59-88D6AE57856D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\roots\roots.Build.cs">
+      <Filter>Source\roots</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\roots\roots.cpp">
+      <Filter>Source\roots</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\roots\roots.h">
+      <Filter>Source\roots</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\roots\rootsGameModeBase.cpp">
+      <Filter>Source\roots</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\roots\rootsGameModeBase.h">
+      <Filter>Source\roots</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

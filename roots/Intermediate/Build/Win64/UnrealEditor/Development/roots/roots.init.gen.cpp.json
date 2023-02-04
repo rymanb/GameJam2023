@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\boney\\desktop\\new folder\\gamejam2023\\roots\\intermediate\\build\\win64\\unrealeditor\\inc\\roots\\roots.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\boney\\desktop\\new folder\\gamejam2023\\roots\\intermediate\\build\\win64\\rootseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\boney\\desktop\\new folder\\gamejam2023\\roots\\intermediate\\build\\win64\\unrealeditor\\development\\roots\\definitions.roots.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
