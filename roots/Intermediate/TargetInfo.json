@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "roots",
-			"Path": "C:\\Users\\boney\\Desktop\\New folder\\GameJam2023\\roots\\Source\\roots.Target.cs",
+			"Path": "C:\\Users\\Dp597\\Desktop\\GameJam\\GameJam2023\\roots\\Source\\roots.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "rootsEditor",
-			"Path": "C:\\Users\\boney\\Desktop\\New folder\\GameJam2023\\roots\\Source\\rootsEditor.Target.cs",
+			"Path": "C:\\Users\\Dp597\\Desktop\\GameJam\\GameJam2023\\roots\\Source\\rootsEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
