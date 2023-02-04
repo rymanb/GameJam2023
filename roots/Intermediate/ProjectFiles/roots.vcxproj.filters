@@ -26,6 +26,12 @@
     <Filter Include="Source\roots">
       <UniqueIdentifier>{5A60344B-48FC-3B5F-AC59-88D6AE57856D}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\roots\PlayerMovement.cpp">
+      <Filter>Source\roots</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\roots\PlayerMovement.h">
+      <Filter>Source\roots</Filter>
+    </ClInclude>
     <None Include="..\..\Source\roots\roots.Build.cs">
       <Filter>Source\roots</Filter>
     </None>
