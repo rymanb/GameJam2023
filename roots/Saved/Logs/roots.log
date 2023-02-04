@@ -1221,3 +1221,156 @@ Script call stack:
 	Function /Game/Carrot.Carrot_C:ReceiveTick
 	Function /Game/Carrot.Carrot_C:ExecuteUbergraph_Carrot
 
+[2023.02.04-21.15.07:327][746]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_GetAllActorsWithTag', from offset 10
+[2023.02.04-21.15.07:327][746]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Carrot.Carrot_C:ReceiveTick
+	Function /Game/Carrot.Carrot_C:ExecuteUbergraph_Carrot
+
+[2023.02.04-21.15.44:586][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.15.44:586][746]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Forest
+[2023.02.04-21.15.44:587][746]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-21.15.44:588][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.15.44:601][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-21.15.44:608][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.15.44:641][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.15.44:643][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.04-21.15.44:644][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.04-21.15.44:651][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.02.04-21.15.44:704][747]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.02.04-21.15.49:249][229]PIE: Warning: AttachTo: '/Engine/Transient.World_4:PersistentLevel.Carrot_C_0.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Engine/Transient.World_4:PersistentLevel.Carrot_C_0.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.15.49:250][229]PIE: Warning: AttachTo: '/Engine/Transient.World_6:PersistentLevel.Carrot_C_3.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Engine/Transient.World_6:PersistentLevel.Carrot_C_3.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.15.49:251][229]PIE: Warning: AttachTo: '/Game/Forest.Forest:PersistentLevel.Carrot_C_2.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Game/Forest.Forest:PersistentLevel.Carrot_C_2.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.15.55:418][640]PIE: Warning: AttachTo: '/Engine/Transient.World_4:PersistentLevel.Carrot_C_0.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Engine/Transient.World_4:PersistentLevel.Carrot_C_0.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.15.55:419][640]PIE: Warning: AttachTo: '/Engine/Transient.World_6:PersistentLevel.Carrot_C_3.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Engine/Transient.World_6:PersistentLevel.Carrot_C_3.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.15.55:419][640]PIE: Warning: AttachTo: '/Game/Forest.Forest:PersistentLevel.Carrot_C_2.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Game/Forest.Forest:PersistentLevel.Carrot_C_2.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.16.08:415][678]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-21.16.08:421][678]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.04-21.16.08:421][678]LogPlayLevel: [PlayLevel] Compiling Carrot before play...
+[2023.02.04-21.16.08:429][678]PIE: Warning: AttachTo: '/Engine/Transient.World_4:PersistentLevel.Carrot_C_0.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Engine/Transient.World_4:PersistentLevel.Carrot_C_0.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.16.08:430][678]PIE: Warning: AttachTo: '/Engine/Transient.World_6:PersistentLevel.Carrot_C_3.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Engine/Transient.World_6:PersistentLevel.Carrot_C_3.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.16.08:430][678]PIE: Warning: AttachTo: '/Game/Forest.Forest:PersistentLevel.Carrot_C_2.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Game/Forest.Forest:PersistentLevel.Carrot_C_2.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.16.08:444][678]PIE: Warning: AttachTo: '/Engine/Transient.World_4:PersistentLevel.Carrot_C_0.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Engine/Transient.World_4:PersistentLevel.Carrot_C_0.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.16.08:445][678]PIE: Warning: AttachTo: '/Engine/Transient.World_6:PersistentLevel.Carrot_C_3.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Engine/Transient.World_6:PersistentLevel.Carrot_C_3.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.16.08:445][678]PIE: Warning: AttachTo: '/Game/Forest.Forest:PersistentLevel.Carrot_C_2.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Game/Forest.Forest:PersistentLevel.Carrot_C_2.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.16.08:446][678]PIE: Warning: AttachTo: '/Engine/Transient.World_6:PersistentLevel.Carrot_C_4.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Engine/Transient.World_6:PersistentLevel.Carrot_C_4.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.16.08:450][678]PIE: Warning: AttachTo: '/Engine/Transient.World_4:PersistentLevel.Carrot_C_0.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Engine/Transient.World_4:PersistentLevel.Carrot_C_0.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.16.08:450][678]PIE: Warning: AttachTo: '/Game/Forest.Forest:PersistentLevel.Carrot_C_2.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Game/Forest.Forest:PersistentLevel.Carrot_C_2.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.16.08:451][678]PIE: Warning: AttachTo: '/Engine/Transient.World_6:PersistentLevel.Carrot_C_4.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Engine/Transient.World_6:PersistentLevel.Carrot_C_4.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.16.08:488][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.02.04-21.16.08:491][678]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
+[2023.02.04-21.16.08:491][678]PIE: New page: PIE session: Forest (Feb 4, 2023, 5:16:08 AM)
+[2023.02.04-21.16.08:491][678]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Forest
+[2023.02.04-21.16.08:544][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053200s)
+[2023.02.04-21.16.08:544][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Forest.Forest to /Game/UEDPIE_0_Forest.Forest (0.053281s)
+[2023.02.04-21.16.08:545][678]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-21.16.08:545][678]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.16.08:545][678]LogAIModule: Creating AISystem for world Forest
+[2023.02.04-21.16.08:545][678]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2023.02.04-21.16.08:579][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.04-21.16.08:580][678]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.04-21.16.08:580][678]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-21.16.08:580][678]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-21.16.08:580][678]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-21.16.08:580][678]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-21.16.08:580][678]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-21.16.08:580][678]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-21.16.08:580][678]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-21.16.08:580][678]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-21.16.08:580][678]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-21.16.08:580][678]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-21.16.08:580][678]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-21.16.08:582][678]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-21.16.08:609][678]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Sound BlasterX G6)
+[2023.02.04-21.16.08:609][678]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-21.16.08:609][678]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-21.16.08:609][678]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-21.16.08:610][678]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.02.04-21.16.08:610][678]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2023.02.04-21.16.08:611][678]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.02.04-21.16.08:611][678]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.02.04-21.16.08:611][678]LogInit: FAudioDevice initialized.
+[2023.02.04-21.16.08:611][678]LogAudio: Display: Audio Device (ID: 4) registered with world 'Forest'.
+[2023.02.04-21.16.08:622][678]LogLoad: Game class is 'gamemode_C'
+[2023.02.04-21.16.08:629][678]LogWorld: Bringing World /Game/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2023.02.04-13.16.08
+[2023.02.04-21.16.08:629][678]LogWorld: Bringing up level for play took: 0.007031
+[2023.02.04-21.16.08:631][678]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.02.04-21.16.08:632][678]PIE: Server logged in
+[2023.02.04-21.16.08:633][678]PIE: Play in editor total start time 0.213 seconds.
+[2023.02.04-21.16.08:634][678]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_GetAllActorsWithTag', from offset 388
+[2023.02.04-21.16.08:634][678]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Carrot.Carrot_C:ReceiveTick
+	Function /Game/Carrot.Carrot_C:ExecuteUbergraph_Carrot
+
+[2023.02.04-21.16.10:898][678]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2023.02.04-21.16.10:899][678]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.16.16:433][679]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_GetAllActorsWithTag', from offset 388
+[2023.02.04-21.16.16:433][679]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Carrot.Carrot_C:ReceiveTick
+	Function /Game/Carrot.Carrot_C:ExecuteUbergraph_Carrot
+
+[2023.02.04-21.16.23:610][680]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_GetAllActorsWithTag', from offset 388
+[2023.02.04-21.16.23:610][680]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Carrot.Carrot_C:ReceiveTick
+	Function /Game/Carrot.Carrot_C:ExecuteUbergraph_Carrot
+
+[2023.02.04-21.16.28:975][681]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_GetAllActorsWithTag', from offset 388
+[2023.02.04-21.16.28:976][681]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Carrot.Carrot_C:ReceiveTick
+	Function /Game/Carrot.Carrot_C:ExecuteUbergraph_Carrot
+
+[2023.02.04-21.16.32:207][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.16.32:207][681]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Forest
+[2023.02.04-21.16.32:207][681]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-21.16.32:208][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.16.32:218][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-21.16.32:225][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.16.32:264][681]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-21.16.32:264][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.04-21.16.32:265][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.04-21.16.32:268][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.16.32:273][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.02.04-21.16.32:314][682]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.02.04-21.17.01:673][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.02.04-21.17.01:675][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="../../../../../../Users/boney/Desktop/New folder/GameJam2023/roots/Saved/Autosaves/Game/Forest_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.04-21.17.01:949][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Forest_Auto1
+[2023.02.04-21.17.01:950][122]LogSavePackage: Moving '../../../../../../Users/boney/Desktop/New folder/GameJam2023/roots/Saved/Forest_Auto13B1B9E0042D3C484533D6FB0C6BA586D.tmp' to '../../../../../../Users/boney/Desktop/New folder/GameJam2023/roots/Saved/Autosaves/Game/Forest_Auto1.umap'
+[2023.02.04-21.17.01:955][122]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Forest' took 0.325
+[2023.02.04-21.17.01:955][122]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.325
+[2023.02.04-21.17.01:956][122]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Carrot] ([2] browsable assets)...
+[2023.02.04-21.17.01:972][122]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Carrot.Carrot]
+[2023.02.04-21.17.01:972][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Carrot]
+[2023.02.04-21.17.01:972][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Carrot" FILE="../../../../../../Users/boney/Desktop/New folder/GameJam2023/roots/Saved/Autosaves/Game/Carrot_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-21.17.01:977][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Carrot_Auto1
+[2023.02.04-21.17.01:977][122]LogSavePackage: Moving '../../../../../../Users/boney/Desktop/New folder/GameJam2023/roots/Saved/Carrot_Auto17073A411456D4E29B836C68E2CC5E911.tmp' to '../../../../../../Users/boney/Desktop/New folder/GameJam2023/roots/Saved/Autosaves/Game/Carrot_Auto1.uasset'
+[2023.02.04-21.17.01:978][122]LogFileHelpers: Auto-saving content packages took 0.022
+[2023.02.04-21.17.18:636][917]PIE: Warning: AttachTo: '/Game/Forest_2.Forest_2:PersistentLevel.Carrot_C_2.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Game/Forest_2.Forest_2:PersistentLevel.Carrot_C_2.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.17.18:752][917]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.17.18:761][917]PIE: Warning: AttachTo: '/Game/Forest_2.Forest_2:PersistentLevel.Carrot_C_2.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Game/Forest_2.Forest_2:PersistentLevel.Carrot_C_2.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.17.18:761][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest_2" FILE="../../../../../../Users/boney/Desktop/New folder/GameJam2023/roots/Content/Forest_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-21.17.18:802][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.02.04-21.17.19:071][917]LogSavePackage: Moving output files for package: /Game/Forest_2
+[2023.02.04-21.17.19:071][917]LogSavePackage: Moving '../../../../../../Users/boney/Desktop/New folder/GameJam2023/roots/Saved/Forest_2FEDE040040E0B06B60650D8C34B03E68.tmp' to '../../../../../../Users/boney/Desktop/New folder/GameJam2023/roots/Content/Forest_2.umap'
+[2023.02.04-21.17.19:340][917]PIE: Warning: AttachTo: '/Game/Forest_2.Forest_2:PersistentLevel.Carrot_C_2.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Game/Forest_2.Forest_2:PersistentLevel.Carrot_C_2.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.17.19:341][917]LogFileHelpers: Saving map 'Forest_2' took 0.590
+[2023.02.04-21.17.19:662][917]AssetCheck: New page: Asset Save: Forest_2
+[2023.02.04-21.17.19:662][917]LogContentValidation: Display: Validating World /Game/Forest_2.Forest_2
+[2023.02.04-21.17.22:870][ 67]LogContentBrowser: Attempting asset rename: Forest_2 -> orig
+[2023.02.04-21.17.23:282][ 67]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.17.23:291][ 67]PIE: Warning: AttachTo: '/Game/orig.orig:PersistentLevel.Carrot_C_2.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Game/orig.orig:PersistentLevel.Carrot_C_2.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.17.23:292][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/orig" FILE="../../../../../../Users/boney/Desktop/New folder/GameJam2023/roots/Content/orig.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-21.17.23:332][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.02.04-21.17.23:608][ 67]LogSavePackage: Moving output files for package: /Game/orig
+[2023.02.04-21.17.23:608][ 67]LogSavePackage: Moving '../../../../../../Users/boney/Desktop/New folder/GameJam2023/roots/Saved/origD3C49BF74947034392FE0FA6B4F85350.tmp' to '../../../../../../Users/boney/Desktop/New folder/GameJam2023/roots/Content/orig.umap'
+[2023.02.04-21.17.23:880][ 67]PIE: Warning: AttachTo: '/Game/orig.orig:PersistentLevel.Carrot_C_2.DefaultSceneRoot' is not static  (in blueprint "Carrot"), cannot attach '/Game/orig.orig:PersistentLevel.Carrot_C_2.StaticMesh' which is static to it. Aborting.
+[2023.02.04-21.17.23:881][ 67]LogFileHelpers: Saving map 'orig' took 0.600
+[2023.02.04-21.17.24:154][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.02.04-21.17.24:196][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.02.04-21.17.24:237][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.04-21.17.24:327][ 67]SourceControl: rm 'roots/Content/Forest_2.umap'
+[2023.02.04-21.17.24:340][ 67]AssetCheck: New page: Asset Save: orig
+[2023.02.04-21.17.24:340][ 67]LogContentValidation: Display: Validating World /Game/orig.orig
