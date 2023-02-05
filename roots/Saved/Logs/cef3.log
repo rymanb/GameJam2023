@@ -1,1 +1,6 @@
 [0204/130455.287:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0204/150143.296:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1
+[0204/150143.296:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 3
+[0204/150143.296:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 7
+[0204/150143.302:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 9
+[0204/150143.312:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 5
